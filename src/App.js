@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          An commit Edit in <code>src/App.js</code> 
         </p>
         <a>
           Welcome to a sample react app deployed on cloudflare
